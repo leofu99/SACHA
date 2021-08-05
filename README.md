@@ -14,3 +14,6 @@ Con esta máquina es posible clasificar hasta 1800 huevos por hora, esto gracias
 
 [Ver producto](https://drive.google.com/file/d/1p-ba2brRasZ2w66l91Yb9ysOwSgHLGSY/preview)
 
+## Creado por:
+* ### Leonardo Fuentes Bohórquez
+* ### Jose Luis Bohórquez Ballesteros
